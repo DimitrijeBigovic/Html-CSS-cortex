@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: #048069;
+  }
+
+  p {
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    color: #048069;
+  }
+
+  a {
+    color: red;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  #todays-learning {
+    color: purple;
+    font-weight: bold;
+    font-size: 52px;
+  }
