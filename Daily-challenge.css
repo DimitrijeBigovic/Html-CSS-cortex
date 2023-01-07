@@ -1,6 +1,4 @@
 body {
-  text-align: center;
-  background-color: rgb(198, 159, 235);
   margin: 50px;
 }
 
@@ -20,15 +18,7 @@ h1 {
     color: #048069;
   }
 
-  a {
-    color: red;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
+  
   #todays-learning {
     color: purple;
     font-weight: bold;

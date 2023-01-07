@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color:rgb(187, 162, 211);
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    font-size: 70px;
+}
+
+p {
+font-family: 'Fira Sans', sans-serif;
+color: chartreuse;
+font-size: 30px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+    
